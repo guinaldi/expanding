@@ -1,12 +1,6 @@
 # Expanding
 
-The Expanding Transition Component for Vue 2.0
-
-## Installation
-
-```
-$ npm install vue-bulma-expanding --save
-```
+The Expanding Transition Component for Vue 2.0 - Forked by guinaldi
 
 ## Examples
 
@@ -44,19 +38,19 @@ $ npm install vue-bulma-expanding --save
 </template>
 
 <script>
-import Expanding from '../Expanding'
+import Expanding from "../Expanding";
 
 export default {
   components: {
     Expanding
   },
 
-  data () {
+  data() {
     return {
       show: false
-    }
+    };
   }
-}
+};
 </script>
 ```
 
@@ -69,5 +63,4 @@ export default {
 
 > [fundon.me](https://fundon.me) &nbsp;&middot;&nbsp;
 > GitHub [@fundon](https://github.com/fundon) &nbsp;&middot;&nbsp;
-> Twitter [@_fundon](https://twitter.com/_fundon)
-
+> Twitter [@\_fundon](https://twitter.com/_fundon)
